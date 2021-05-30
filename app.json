@@ -1,12 +1,10 @@
 {
-  "name": "mobile-flashcard",
-  "displayName": "mobile-flashcard",
-  "expo": {
-    "name": "mobile-flashcard",
-    "slug": "mobile-flashcard",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+    "name": "mobile-flash-cardsd",
+    "displayName": "mobile-flash-cardsd",
+    "expo": {
+        "name": "mobile-flash-cards",
+        "slug": "mobile-flash-cards",
+        "version": "1.0.0",
+        "assetBundlePatterns": ["**/*"]
+    }
 }

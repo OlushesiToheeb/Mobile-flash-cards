@@ -213,7 +213,7 @@ class Quiz extends Component {
                     onPress={this.toggleQuestionAnswerHandler}
                 >
                     <Text style={styles.textStyle}>
-                        {showAnswer ? 'Show Answer' : 'Show Question'}
+                        {showAnswer ? 'Show Question ' : 'Show Answer'}
                     </Text>
                 </TouchableOpacity>
                 <ActionButton
