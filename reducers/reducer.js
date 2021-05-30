@@ -5,7 +5,7 @@ import {
     RESET_STORE,
     REMOVE_DECK,
 } from '../actions';
-import { decks as allDecks } from '../../utils/_Data';
+import { decks as allDecks } from '../utils/_Data';
 
 export default function decksReducer(state = {}, action) {
     switch (action.type) {
